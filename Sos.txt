@@ -1,0 +1,8 @@
+-1:Siparisi Tamamla
+0:Cikis
+1: Zeytin
+2: Mantarlar
+3: Keci Peyniri
+4: Et
+5: Sogan
+6: Misir
